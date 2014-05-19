@@ -45,6 +45,7 @@ EasyImage offers these methods:
 	x - x offset for cropping, defaults to 0
 	y - y offset for cropping, defaults to 0
 	quality - quality of processed image, 1 to 100
+	contrast - Enhance or reduce the image contrast, default is nochange.
 	gravity - crop position [NorthWest | North | NorthEast | West | Center | East | SouthWest | South | SouthEast], defaults to Center
 	fill - fill area flag, image is resized to completely fill the target crop dimensions, defaults to false
 
